@@ -1,7 +1,7 @@
-# Splunk
-Using DNS Logs for hands on Splunk Practice
 # Analyzing DNS Log Files Using Splunk SIEM
-
+<p align="center">
+<img src="https://i.imgur.com/uer6djf.png" height="80%" width="80%" alt="Splunk SIEM Lab"/> 
+</p>
 
 
 ## Introduction
